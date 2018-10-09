@@ -11,4 +11,8 @@ poll status along with the last poll date of availability in a table view:
   - update all metric families
   - delete device (with pop up window to confirm)
 
+Update to v1.2:
+- added column: SNMP profile
+- added parameters: hideColumn, LAPollTSFilter
+
 Please refer to the PDF document in the package for more information.
